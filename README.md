@@ -1,18 +1,17 @@
 # customer-churn-prediction
-ML model + Power BI dashboard to predict telecom customer churn
-
-# customer-churn-prediction
 
 Machine Learning model and Power BI dashboard to predict telecom customer churn and visualize business insights.
 
 ---
 
-## Dashboard
--preview
-<img src="Customer_churn_dashboard.png" alt="Customer Churn Dashboard" width="800"/>
+## Dashboard Preview
 
--image
-<img src="dashboard.png" alt="Dashboard" width="800"/>
+<img src="screenshots/Customer_churn_dashboard.png" alt="Customer Churn Dashboard" width="700"/>
+
+<br>
+
+<img src="screenshots/dashboard.png" alt="Dashboard View" width="700"/>
+
 
 
 ---
@@ -20,16 +19,6 @@ Machine Learning model and Power BI dashboard to predict telecom customer churn 
 ## Project Overview
 
 This project predicts customer churn using Machine Learning and presents insights through an interactive Power BI dashboard. It helps businesses identify customers likely to leave and take proactive retention actions.
-
----
-
-## Problem Statement
-
-Customer churn is a major challenge in the telecom industry. Losing customers impacts revenue and growth. The goal of this project is to:
-
-* Predict whether a customer will churn
-* Analyze factors influencing churn
-* Visualize churn patterns using Power BI
 
 ---
 
@@ -112,21 +101,13 @@ The dashboard provides the following insights:
 
 ## Tools and Technologies
 
-Programming and Analysis:
-
 * Python
 * Pandas
 * NumPy
 * Scikit-learn
-
-Visualization:
-
 * Power BI
-
-Development Environment:
-
 * Jupyter Notebook
-* Anaconda
+
 
 ---
 
@@ -147,7 +128,7 @@ customer-churn-prediction/
 
 Step 1: Clone the repository
 
-git clone [https://github.com/your-username/customer-churn-prediction.git](https://github.com/your-username/customer-churn-prediction.git)
+git clone (https://github.com/ashishkumar2005/customer-churn-prediction.git)
 
 Step 2: Install dependencies
 
@@ -160,36 +141,3 @@ Open churn_project.ipynb in Jupyter Notebook and execute all cells.
 Step 4: Open Power BI dashboard
 
 Open Customer_Churn_Dashboard.pbix in Power BI Desktop.
-
----
-
-## Business Impact
-
-This solution helps telecom companies:
-
-* Identify high-risk customers
-* Improve retention strategies
-* Reduce revenue loss
-* Enhance customer satisfaction
-
----
-
-## Future Improvements
-
-* Use advanced models (Random Forest, XGBoost)
-* Deploy as a web application
-* Automate real-time predictions
-* Add customer segmentation
-
----
-
-## Author
-
-Ashish Kumar
-Data Science Enthusiast
-
----
-
-## License
-
-This project is open source and available under the MIT License.
