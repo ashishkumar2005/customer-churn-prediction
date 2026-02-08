@@ -7,9 +7,13 @@ Machine Learning model and Power BI dashboard to predict telecom customer churn 
 
 ---
 
-## Dashboard Preview
+## Dashboard
+-preview
+<img src="Customer_churn_dashboard.png" alt="Customer Churn Dashboard" width="800"/>
 
-<img src="Customer_churn_dashboard.png" alt="Customer Churn Dashboard" width="1000"/>
+-image
+<img src="dashboard.png" alt="Dashboard" width="800"/>
+
 
 ---
 
